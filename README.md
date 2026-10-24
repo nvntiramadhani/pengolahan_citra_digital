@@ -1,6 +1,6 @@
 # Pengolahan Citra Digital: Konversi RGB ke Grayscale
 
-Proyek praktikum mata kuliah Pengolahan Citra Digital (Teknik Informatika) yang mengubah citra berwarna (RGB) menjadi citra grayscale menggunakan **Python** dan **OpenCV**. Proyek ini mencakup pembacaan citra, konversi ruang warna, visualisasi perbandingan, penyimpanan hasil, dan verifikasi berkas keluaran.
+Proyek mata kuliah Pengolahan Citra Digital (Teknik Informatika) yang mengubah citra berwarna (RGB) menjadi citra grayscale menggunakan **Python** dan **OpenCV**. Proyek ini mencakup pembacaan citra, konversi ruang warna, visualisasi perbandingan, penyimpanan hasil, dan verifikasi berkas keluaran.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-cv2-green)
