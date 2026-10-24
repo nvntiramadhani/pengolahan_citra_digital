@@ -147,6 +147,3 @@ Gray = 0.299 × R + 0.587 × G + 0.114 × B
 | **Program Studi** | Teknik Informatika |
 | **Mata Kuliah** | Pengolahan Citra Digital |
 
-## Lisensi
-
-Proyek ini dibuat untuk keperluan pembelajaran. Tambahkan lisensi sesuai kebutuhan (misalnya MIT) sebelum dipublikasikan.
