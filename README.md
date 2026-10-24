@@ -138,8 +138,6 @@ Gray = 0.299 × R + 0.587 × G + 0.114 × B
 - Perbandingan metode grayscale lain (rata-rata sederhana, desaturasi)
 - Pemrosesan batch untuk banyak citra sekaligus
 
-## Penulis
-
 | | |
 |---|---|
 | **Nama** | Novianti Ramadhnai |
