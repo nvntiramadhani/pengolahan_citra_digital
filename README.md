@@ -8,20 +8,6 @@ Proyek praktikum mata kuliah Pengolahan Citra Digital (Teknik Informatika) yang 
 
 ---
 
-## Daftar Isi
-
-- [Deskripsi](#deskripsi)
-- [Fitur](#fitur)
-- [Struktur Proyek](#struktur-proyek)
-- [Prasyarat](#prasyarat)
-- [Cara Menjalankan](#cara-menjalankan)
-- [Alur Pemrosesan](#alur-pemrosesan)
-- [Hasil](#hasil)
-- [Konsep Teknis](#konsep-teknis)
-- [Pengembangan Lanjutan](#pengembangan-lanjutan)
-
----
-
 ## Deskripsi
 
 Konversi citra berwarna ke grayscale adalah tahap prapemrosesan (*preprocessing*) yang mendasar dalam pengolahan citra digital. Citra berwarna menyimpan tiga kanal per piksel, sedangkan citra grayscale hanya satu kanal intensitas. Dengan konversi ini, volume data dan beban komputasi berkurang, sementara informasi struktural seperti bentuk, tekstur, dan kontras tetap terjaga.
